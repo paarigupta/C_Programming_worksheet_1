@@ -1,0 +1,2 @@
+The output is :
+0 0 0
